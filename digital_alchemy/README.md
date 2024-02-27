@@ -1,5 +1,7 @@
 # alchemy-mc
 
+digital alchemy is an inverse design technique based on extended ensemble method.
+
 Target structures:
 
 Shape move - Simple cubic
